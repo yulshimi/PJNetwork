@@ -20,5 +20,3 @@ Description:
 -Implemented the Border Gateway Protocol with the Breadth First Search, the Longest Prefix Match with Trie, the Internet Control Message Protocol, the Sliding Window Protocol with Selective Acknowledgements, the Address Resolution Protocol, and the Random Early Detection
 -Implemented the normal router with multiple input queues and output queues, and the attacker router that
  modifies an original message and manipulates sequence/acknowledgment numbers
- 
- PS. Currently working on the corruption part
